@@ -57,6 +57,9 @@
     height: 40px;
     border-radius: 4px;
 }
+.nav-search:hover{
+    border: 2px solid orange;
+}
 .search-select{
     background-color: #f3f3f3;
     width: 50px;
@@ -83,8 +86,8 @@
 
 }
 
-/* BOX - 4 */
-.nav-signin{
+/* BOX - 4/5 */
+.nav-signin .nav-return{
     font-weight: 700;
 }
 span{
@@ -92,4 +95,13 @@ span{
 }
 .nav-second{
     font-size: .85rem;
+}
+
+/*  BOX - 6 */
+.nav-cart i{
+    font-size: 30px;
+}
+.nav-cart{
+    font-size: 0.85rem;
+    font-weight: 700;
 }
