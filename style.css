@@ -7,6 +7,8 @@
     background-color:#0f1111;
     height: 60px;
     color: white;
+    display: flex;
+    align-items: center;
 }
 
 .nav-logo{
@@ -28,3 +30,21 @@
 .border:hover{
     border: 1.5px solid white;
 }
+
+/* Box - 2 */
+.add-icon{
+    display: flex;
+    align-items: center;
+}
+.add-first{
+    font-size: 0.85rem;
+    margin-left: 15px;
+    color: #cccccccc;
+}
+.add-second{
+    font-size: 1rem;
+    margin-left: 3px;
+}
+
+
+/* Box - 3 */
